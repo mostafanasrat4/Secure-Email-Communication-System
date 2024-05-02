@@ -1,0 +1,12 @@
+Hi Youssef and Tasneem,
+
+I hope this email finds you well. I wanted to provide you with an update on our ongoing project. Please find attached two files: one containing important security information and the other containing the project report.
+
+For added security, we have implemented an advanced encryption system for our communications. The security information in Attachment 1 is encrypted using AES, and the email content is digitally signed using RSA. This ensures that the information reaches you securely and has not been tampered with.
+
+To decrypt Attachment 1, you'll need the corresponding decryption key, which will be shared with you separately for enhanced security.
+
+If you have any questions or concerns, please feel free to reach out.
+
+Best regards,
+Mostafa Nasrat
